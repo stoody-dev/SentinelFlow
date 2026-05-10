@@ -83,6 +83,11 @@ Realtime Dashboard
 
 ## Live Dashboard
 
+![Dashboard](./screenshots/frontend.png)
+
+---
+## Live Dashboard
+
 - Realtime anomaly trend graph
 - Event severity scoring
 - Threat feed cards
