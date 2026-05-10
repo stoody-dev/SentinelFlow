@@ -224,11 +224,6 @@ SentinelFlow/
 - Distributed ingestion workers
 - Advanced anomaly ML models
 
----
-
-# Resume Description
-
-> Built a realtime AI-powered anomaly intelligence platform using Fastify, Next.js, WebSockets, and Anakin scraping APIs to ingest, analyze, and visualize live threat/event streams with low-latency realtime monitoring.
 
 ---
 
